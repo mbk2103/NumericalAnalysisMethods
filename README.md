@@ -1,1 +1,1 @@
-# NumericalAnalysisMethods
+# Numerical Analysis Methods
